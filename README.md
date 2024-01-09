@@ -16,7 +16,7 @@ To install the dependencies run:
 ```
 pip install -r requirements.txt
 ```
-To run the training script, place the dataset, go to `./CADGL/` folder and run:
+To run the training script, place the dataset from DrugBank, go to `./CADGL/` folder and run:
 ```
 python train.py
 ```
