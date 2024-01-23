@@ -3,7 +3,7 @@ asttokens==2.0.8
 astunparse==1.6.3
 backcall==0.2.0
 cachetools==5.2.0
-certifi==2022.9.24
+certifi==2023.7.22
 chardet==5.1.0
 charset-normalizer==2.1.1
 colorama==0.4.5
