@@ -130,7 +130,7 @@ typing_extensions==4.4.0
 urllib3==1.26.12
 virtualenv==20.17.1
 wcwidth==0.2.5
-Werkzeug==2.2.2
+Werkzeug==3.0.3
 wheel==0.37.1
 wrapt==1.14.1
 yarg==0.1.9
