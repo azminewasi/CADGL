@@ -1,1 +1,1 @@
-Please download **Drugbank** dataset from https://go.drugbank.com/ after requesting access properly.
+We do not have permission or a license to release the DrugBank dataset publicly, as it is governed by specific terms and conditions. To access this dataset, we kindly advise users to visit [DrugBank](https://go.drugbank.com/) and request proper access. DrugBank requires users to follow a formal process for obtaining the dataset, ensuring compliance with their licensing agreements. We appreciate your understanding in this matter.
